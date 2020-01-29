@@ -1,2 +1,0 @@
-# testTodoOnRedux
-Created with CodeSandbox

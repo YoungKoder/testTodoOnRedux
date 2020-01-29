@@ -1,0 +1,23 @@
+.todoItem {
+  margin-bottom: 5px;
+}
+
+.todoItem_title {
+  margin-right: 5px;
+}
+.todoItem_title:hover {
+  cursor: pointer;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.todoItem--hold {
+  background: #675767;
+  color: #fff;
+}
+
+.todoItem--done {
+  text-decoration: line-through;
+}
